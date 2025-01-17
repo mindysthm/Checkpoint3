@@ -1,5 +1,5 @@
 Partie 1
-
+  
 Q.1.1.1  Dans le server manager, je vais dans computers and users, je fais une recherche de Kelly en faisant un clic droit sur le nom de domaine. Ensuite j'ouvre l'OU Direction des ressources humaines qui se trouve dans LabUsers, et je créé le nouveau salarié en faisant clic droit new users    
 
 Q.1.1.2  Je fais un clic droit sur Labusers et ensuite sur new Organization Unit, ensuite je déplace Kelly Rhameur dans cette nouvelle OU.
