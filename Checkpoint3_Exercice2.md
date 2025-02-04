@@ -23,7 +23,17 @@ Q.2.4.1 Le bareos dir supervise et planifie les sauvegardes et restaurations.
 Le bareos sd gère le stockage des données sur les supports de sauvegarde.  
 Et le bareos fd est installé sur les ordinateurs clients pour envoyer les fichiers à sauvegarder vers le serveur.
 
+Partie 5:   
 
+Q.2.5.1   
+![2](https://github.com/mindysthm/Checkpoint3/blob/main/Capture%20d'%C3%A9cran%202025-02-04%20172227.png)   
+
+Q.2.5.2   
+Les types de communications autorisées sont les connexions établies, le trafic interne via localhost, SSH sur le port 22, les pings ICMP et ICMPv6.
+
+
+Q.2.5.4
+![3](https://github.com/mindysthm/Checkpoint3/blob/main/Capture%20d'%C3%A9cran%202025-02-04%20173936.png)
 
 Partie 6 : Analyse de logs
 Q.2.6.1  
