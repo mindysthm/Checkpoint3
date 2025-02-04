@@ -4,11 +4,13 @@ Q.1.1.1  Dans le server manager, je vais dans computers and users, je fais une r
 
 Q.1.1.2  Je fais un clic droit sur Labusers et ensuite sur new Organization Unit, ensuite je déplace Kelly Rhameur dans cette nouvelle OU.
 
-Q.1.1.3 Dans l'OU DIrection des ressources humaines, il y a le groupe GrpUsersdirectiondesressourceshumaines. Je double-clique et je Remove Kelly, et add Lionel, ensuite apply et OK     
+Q.1.1.3 Dans l'OU DIrection des ressources humaines, il y a le groupe GrpUsersdirectiondesressourceshumaines. Je double-clique et je Remove Kelly, et add Lionel, ensuite apply et OK         
 
-Partie 2 : Restriction utilisateurs    
+Q.1.1.4   
 
-Q.1.1.4  
+Partie 2 : Restriction utilisateurs
+
+Q.1.2.1   
 ![1](https://github.com/mindysthm/Checkpoint3/blob/main/Capture%20d'%C3%A9cran%202025-01-17%20103259.png)   
 
 Q.1.2.2  
